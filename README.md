@@ -1,2 +1,2 @@
 # baseline
-tes setupt for typescript + react + redux + react-router
+test setup for typescript + react + redux + react-router
